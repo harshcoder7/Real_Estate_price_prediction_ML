@@ -35,4 +35,5 @@ This project demonstrates a complete pipeline for building a real estate price p
 #Run the Flask Server
 python server/app.py
 
-![Screenshot]()
+![Localhost Diagram](localhost.png)
+
